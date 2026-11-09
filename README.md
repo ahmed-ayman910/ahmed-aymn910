@@ -1,7 +1,7 @@
-# Hi there, I'm [Ahmed Ayman](https://github.com/ahmed-aymn910)
+# Hi there, I'm [Ahmed Ayman](https://github.com/ahmed-ayman910)
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-ayman910) 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/ahmed-aymn910)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/ahmed-ayman910)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:ahayman910@gmail.com)
 
 ---
